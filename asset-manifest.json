@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/olawale-gaius-lendsqr-fe-test/static/css/main.ecbb2be7.css",
+    "main.js": "/olawale-gaius-lendsqr-fe-test/static/js/main.27f92c39.js",
+    "static/media/welcomeMan.png": "/olawale-gaius-lendsqr-fe-test/static/media/welcomeMan.d086c8797a66d25da158.png",
+    "static/media/savings-user_icon.svg": "/olawale-gaius-lendsqr-fe-test/static/media/savings-user_icon.a9777542d6d8a0b856239357c12ead17.svg",
+    "static/media/users_icon.svg": "/olawale-gaius-lendsqr-fe-test/static/media/users_icon.81b7cb0915c8bfe60aa3dc5b3c722587.svg",
+    "static/media/clipboard-list 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/clipboard-list 1.e83162f870daa6c0f8188032abf232cb.svg",
+    "static/media/badge-percent 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/badge-percent 1.e2b5911c99725893102aa330dd7d55d9.svg",
+    "static/media/Group.svg": "/olawale-gaius-lendsqr-fe-test/static/media/Group.0104bc7414969091dbca1634e334cdff.svg",
+    "static/media/active-user_icon.svg": "/olawale-gaius-lendsqr-fe-test/static/media/active-user_icon.0807b5d0d3cdf2a17cbb3fd26eb086e9.svg",
+    "static/media/user-cog 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/user-cog 1.cb8f1dcf256cb331579032f88cf90561.svg",
+    "static/media/piggy-bank 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/piggy-bank 1.edbcb9a7768271b94891e1916e062a2e.svg",
+    "static/media/galaxy 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/galaxy 1.807675c4a59f5cefd9104cedd380ece1.svg",
+    "static/media/user-times 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/user-times 1.0ece22e986ba6771641c3deeb45800eb.svg",
+    "static/media/Group 104.svg": "/olawale-gaius-lendsqr-fe-test/static/media/Group 104.a27defe12d98b44fd2e3dd68a930275a.svg",
+    "static/media/users 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/users 1.b72fa4c107f5cb851d7bc5a687f08385.svg",
+    "static/media/loan-users_icon.svg": "/olawale-gaius-lendsqr-fe-test/static/media/loan-users_icon.8d3977c4f4f6c5495abb9ea1f1b5fb27.svg",
+    "static/media/sliders-h 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/sliders-h 1.4c688846eab0da7fbc8dddca5e642325.svg",
+    "static/media/home 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/home 1.e4fd074020587cbff083f59e5f40edc4.svg",
+    "static/media/user-check 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/user-check 1.36c2f33aeaf849d7b4b28cd24c79beff.svg",
+    "static/media/user-friends 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/user-friends 1.e2bfc68e87b1859e68588237b558e391.svg",
+    "static/media/handshake-regular 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/handshake-regular 1.4df0ddd096079c7e9c69294d5e455e38.svg",
+    "static/media/sack 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/sack 1.818b5f02e9026bd0d124adfae7b693c7.svg",
+    "static/media/scroll 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/scroll 1.4e8beef7d6233990c9c17ab28e82ef93.svg",
+    "static/media/icon.svg": "/olawale-gaius-lendsqr-fe-test/static/media/icon.36dbf45c45e681b6fb9d47aac91401f3.svg",
+    "static/media/Union.svg": "/olawale-gaius-lendsqr-fe-test/static/media/Union.ebdc30107ef95ecae4114b8cb03c3d24.svg",
+    "static/media/chart-bar 2.svg": "/olawale-gaius-lendsqr-fe-test/static/media/chart-bar 2.2f83005204e89fad49149a32374e437e.svg",
+    "static/media/coins-solid 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/coins-solid 1.101d49402c06ed32f6fd961f1cf1e841.svg",
+    "index.html": "/olawale-gaius-lendsqr-fe-test/index.html",
+    "static/media/briefcase 1.svg": "/olawale-gaius-lendsqr-fe-test/static/media/briefcase 1.b1c65162900b024b33abcaaa75742485.svg",
+    "main.ecbb2be7.css.map": "/olawale-gaius-lendsqr-fe-test/static/css/main.ecbb2be7.css.map",
+    "main.27f92c39.js.map": "/olawale-gaius-lendsqr-fe-test/static/js/main.27f92c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbb2be7.css",
+    "static/js/main.27f92c39.js"
+  ]
+}
