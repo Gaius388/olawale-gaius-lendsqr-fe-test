@@ -6,7 +6,7 @@ import SingleUser from "./components/SingleUser";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ""}>
       <Routes>
         <Route path="/" element={<LoginPage />} />
         <Route path="users" element={<Dashboard />}>
